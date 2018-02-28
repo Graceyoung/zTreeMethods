@@ -1,0 +1,4 @@
+/*删除zTree文件图标*/
+.ztree li span.button.ico_open,.ztree li span.button.ico_docu,.ztree li span.button.ico_close{
+	display: none;
+}
